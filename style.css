@@ -1,0 +1,7 @@
+#nav {
+  position: sticky;
+}
+
+ol li {
+  display: inline-block;
+}
