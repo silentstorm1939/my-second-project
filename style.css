@@ -4,4 +4,5 @@
 
 ol li {
   display: inline-block;
+  border: 1px black dashed;
 }
